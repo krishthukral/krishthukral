@@ -2,7 +2,7 @@
 
 <!--
 **krishthukral/krishthukral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/krishthukral/krishthukral/main/asset/Black and Grey Spinning Cool and Funky Computer Logo.svg)](https://krishcs.com)
 
 Here are some ideas to get you started:
 
