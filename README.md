@@ -6,7 +6,7 @@
 Hi 👋 My name is Krish
 ============================
 
-Salesforce Dev
+Software Engineer
 --------------
 
 I love building stuff:
