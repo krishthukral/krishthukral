@@ -9,7 +9,10 @@ Hi 👋 My name is Krish
 Salesforce Dev
 --------------
 
-I am a Salesforce Developer turned into founder. Currently, I am building a platoform to teach Salesforce Development for beginners in Apex. I stream the whole process on YouTube and Twitch, so that you can see literally everything. I stream coding, marketing and all I can show. Welcome! 
+I love building stuff:
+Here is my second brain: blog.krishcs.com
+links.krishcs.com
+Love AI, Love coding and vim!
 
 * 🌍  I'm based in SF
 * 🧠  I love next js
