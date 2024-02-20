@@ -16,7 +16,7 @@ Love AI, Love coding and vim!
 
 * 🌍  I'm based in SF
 * 🧠  I love next js
-* ✉️  You can contact me on linkedin or contact form https://krishcs.com/Contact-me-6d67a2b67449456cb2461304c04e5a66
+* ✉️  You can contact me on linkedin or contact form https://krishcs.com/contact
 * 🚀  I'm currently working on things
 
 
