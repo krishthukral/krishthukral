@@ -15,7 +15,7 @@ links.krishcs.com
 Love AI, Love coding and vim!
 
 * 🌍  I'm based in SF
-* 🧠  I love next js and AI stuff, and Salesforce
+* 🧠  I love next js, AI, and Salesforce
 * ✉️  You can contact me on linkedin or contact form https://krishcs.com/contact
 * 🚀  I'm currently working on things
 
